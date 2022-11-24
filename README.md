@@ -8,6 +8,7 @@ MVVM Architecture - Chosen because it is one of the most used architectures in t
 
 Architecture!
 
+![Captura de tela de 2022-11-24 20-34-32](https://user-images.githubusercontent.com/2738131/203875218-0df02c55-97f6-4764-b932-aa26b15e82d1.png)
 
 
 

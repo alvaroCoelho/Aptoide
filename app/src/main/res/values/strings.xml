@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aptoide</string>
+    <string name="editor_choice">Editors Choice</string>
+    <string name="local_top">Local Top Apps</string>
+    <string name="loading">Loading</string>
+    <string name="empty">Empty</string>
+    <string name="store_name">\"Store name: \"</string>
+    <string name="added">\"Added: \"</string>
+</resources>
